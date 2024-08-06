@@ -1,0 +1,2 @@
+Major feature for next realise;
+After this commit will be two commits in feature-one branch;

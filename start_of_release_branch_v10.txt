@@ -1,0 +1,4 @@
+Start of release branch for v1.0;
+added docker file for example;
+added swagger-documentation for example;
+fixed some bugs;
